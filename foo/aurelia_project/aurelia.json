@@ -59,7 +59,6 @@
         "displayName": "Web",
         "output": "scripts",
         "index": "../index.html",
-        "baseDir": "foo/scripts",
         "baseUrl": "foo/scripts"
       }
     ],
